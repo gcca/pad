@@ -1,0 +1,4 @@
+module CPad {
+  header "pad.hpp"
+  export *
+}
